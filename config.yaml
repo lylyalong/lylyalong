@@ -1,4 +1,4 @@
-baseURL: http://localhost:1313/
+baseURL: https://lylyalong.github.io/lylyalong/
 theme: pure
 title: Eamon's blog 
 copyright: CC BY 4.0 CN
