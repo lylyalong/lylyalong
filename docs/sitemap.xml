@@ -3,55 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/about/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/emoji/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/tags/emoji/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/2019/03/emoji-support/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/2019/03/emoji-support/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/posts/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/tags/</loc>
     <lastmod>2019-03-05T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://lylyalong.github.io/lylyalong/series/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
